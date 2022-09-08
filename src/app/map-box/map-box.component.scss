@@ -1,0 +1,55 @@
+.hide {
+  display: none;
+}
+.roate_mode_btn {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  height: 29px;
+  padding: 2px 5px;
+  outline: none;
+  color: #000;
+  background-color: #fff;
+  border-radius: 5px;
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+  &:hover {
+    background-color: #f2f2f2;
+  }
+}
+
+.roate_mode_btn2 {
+  position: absolute;
+  top: 10px;
+  right: 100px;
+  height: 29px;
+  padding: 2px 5px;
+  outline: none;
+  color: #000;
+  background-color: #fff;
+  border-radius: 5px;
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+  &:hover {
+    background-color: #f2f2f2;
+  }
+}
+.roate_mode_btn3 {
+  position: absolute;
+  top: 10px;
+  right: 150px;
+  height: 29px;
+  padding: 2px 5px;
+  outline: none;
+  color: #000;
+  background-color: #fff;
+  border-radius: 5px;
+  border: none;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+  &:hover {
+    background-color: #f2f2f2;
+  }
+}
